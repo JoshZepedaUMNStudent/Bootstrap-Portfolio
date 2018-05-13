@@ -1,0 +1,50 @@
+body {
+    background-color: #dddddd;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+
+li {
+    float: left;
+}
+
+
+
+#profile {
+    background-color: #ffffff;
+    width: 960px;
+    height: 500px;
+    padding: 15;
+    margin-left: 250px;
+    margin-bottom: 65px;
+}
+
+#contact {
+    background-color: #ffffff;
+    width: 960px;
+    height: 500px;
+    padding-left: 50px;
+    margin-left: 250px;
+    margin-bottom: 65px;
+}
+
+#portfolio {
+    background-color: #ffffff;
+    width: 960px;
+    height: 500px;
+    margin-left: 250px;
+    margin-bottom: 65px;
+}
+
+
+#footer {
+    background-color: #666666;
+    height:80px;
+}
