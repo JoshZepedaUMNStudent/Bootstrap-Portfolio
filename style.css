@@ -1,50 +1,28 @@
 body {
-    background-color: #dddddd;
+    background-color: crimson;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
+
+    background-color: maroon;
 }
 
 
-li {
-    float: left;
-}
+
 
 
 
 #profile {
-    background-color: #ffffff;
+    background-color: lightgoldenrodyellow;
     width: 960px;
     height: 500px;
     padding: 15;
+    margin-top: 40px;
     margin-left: 250px;
-    margin-bottom: 65px;
+    margin-bottom: 100px;
 }
-
-#contact {
-    background-color: #ffffff;
-    width: 960px;
-    height: 500px;
-    padding-left: 50px;
-    margin-left: 250px;
-    margin-bottom: 65px;
-}
-
-#portfolio {
-    background-color: #ffffff;
-    width: 960px;
-    height: 500px;
-    margin-left: 250px;
-    margin-bottom: 65px;
-}
-
 
 #footer {
-    background-color: #666666;
+    background-color: maroon;
     height:80px;
 }
