@@ -1,0 +1,29 @@
+body {
+    background-color: maroon;
+}
+
+p {
+    color: white;
+}
+
+.nav {
+    background-color: yellowgreen;
+    margin-bottom: 15px;
+}
+.fixed-bottom {
+position: fixed;
+background-color: orange;
+height: 50px;
+bottom: 0;
+width: 100%;
+}
+
+
+
+#infobox {
+    background-color: gray;
+    width: 700px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
