@@ -1,5 +1,5 @@
 body {
-    background-color: maroon;
+    background-color: gray;
 }
 
 p {
@@ -7,12 +7,12 @@ p {
 }
 
 .nav {
-    background-color: yellowgreen;
+    background-color: purple;
     margin-bottom: 15px;
 }
 .fixed-bottom {
 position: fixed;
-background-color: orange;
+background-color: purple;
 height: 50px;
 bottom: 0;
 width: 100%;
@@ -21,7 +21,7 @@ width: 100%;
 
 
 #infobox {
-    background-color: gray;
+    background-color: silver;
     width: 700px;
     height: 400px;
     margin-top: 150px;
